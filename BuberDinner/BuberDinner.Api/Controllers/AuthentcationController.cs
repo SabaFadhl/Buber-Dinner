@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using BuberDinner.Api.Controllers;
 using Microsoft.AspNetCore.Identity.Data;
 
 [ApiController]
